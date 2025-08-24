@@ -71,4 +71,5 @@ Url: http://localhost:8080/api/v1/kpop/1
 
 Base de datos general ejecutada en el localhost 
 
-![Base de datos](image-5.png)
+<img width="2551" height="1370" alt="image" src="https://github.com/user-attachments/assets/745a990f-1516-4088-8b4c-accad5206aaa" />
+
